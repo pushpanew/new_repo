@@ -26,7 +26,7 @@
     <groupId>proj3</groupId>
     <artifactId>proj3</artifactId>
     <version>proj3</version>
-    <names>Gene Expression Atlas customized for proj3</names>
+    <name>Gene Expression Atlas customized for proj3</name>
     <url>http://www.ebi.ac.uk/gxa</url>
     <packaging>war</packaging>
 
