@@ -46,10 +46,10 @@
 		    <url>http://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
 	    </repository>
     </repositories>
+
+</project>
 <plugin>
 	<groupId>org.apache.maven.plugins</groupId>
 	<artifactId>maven-war-plugin</artifactId>
 	<version>3.2.2</version>
 </plugin>
-
-</project>
